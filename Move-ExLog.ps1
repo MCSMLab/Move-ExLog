@@ -12,7 +12,8 @@ Commands to delete source files are commented out at end of script
 Move-ExLog.ps1
 v1.0
 04/23/2018
-By Nathan O'Bryan, MVP|MCSM 
+By Nathan O'Bryan, MVP|MCSM
+nathan@mcsmlab.com
 
 .LINK
 https://www.mcsmlab.com/about
