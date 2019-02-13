@@ -16,6 +16,7 @@ By Nathan O'Bryan, MVP|MCSM
 
 .LINK
 https://www.mcsmlab.com/about
+https://github.com/MCSMLab/Move-ExLog/blob/master/Move-ExLog.ps1
 
 #>
 
